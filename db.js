@@ -1,4 +1,4 @@
-import { createClaint } from '@sopabase/supabase-js';
+import { createClaint } from '@supabase/supabase-js';
 import { config } from 'dotenv';
 
 config()
